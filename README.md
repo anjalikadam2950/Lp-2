@@ -1,1 +1,1 @@
-# Lp-2
+print('Hello')
